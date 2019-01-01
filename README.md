@@ -7,6 +7,10 @@ The project requires pygame to be installed
 
 The project was created as a submission to a Byld Hackathon, by a team consisting of:
 Ritwik Gupta
+
 Ruhma Mehek Khan
+
 Bhavya Chopra
+
 Lakshya A Agrawal
+
